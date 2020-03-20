@@ -13,4 +13,4 @@ Tamara Temple, @tamouse, https:/github.com/tamouse
 
 # SOURCE
 
-  http://github.com/tamouse/www.tamouse.org
+  http://github.com/tamouse/tamouse.github.io
